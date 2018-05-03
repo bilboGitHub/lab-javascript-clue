@@ -1,3 +1,6 @@
+a="lalala";
+console.log(a);
+
 // Characters
 /*
 mrGreen
